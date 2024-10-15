@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x groups chgrp hello
+chmod u+x groups su hello
