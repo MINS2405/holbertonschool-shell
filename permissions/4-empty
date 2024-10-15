@@ -1,2 +1,2 @@
 #!/bin/bash
-./4-empty
+adduser 4-empty
