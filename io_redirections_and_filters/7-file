@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf *Best* ; cat filename su student_jail -c 'timeout 30 bash -c '"'"'rm -rf *Best* ; cat filename'"'"''
+echo Best School | cat Best School
